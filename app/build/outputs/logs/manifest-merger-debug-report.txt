@@ -1,0 +1,189 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [com.android.support:design:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/design-24.2.0.aar/3ddb1d5672c098e9c34a9e5a40d7c4c7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.0.aar/501541b3889f3c88b1be139005b7ffcb/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-vision-9.4.0.aar/4852e49d454579c372b120dcb9b306d5/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/242b92a6d28d725598df0537750957de/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/93ff25649be7cbc8376de7db812b562f/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/ca7a50c6de4dc4dbff7da6df3d421d98/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.0.aar/3b5c11763ec910562acb974e665704ec/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2a5858eaba42fa29c38c30ef50023ec6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.0.aar/c88304c0cbfea61a521075880e2115ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.0.aar/dcc15e84458d62fa7320450bac54a42b/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.0.aar/a768da15c94db6c96a1cea2734d2fec6/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.0.aar/3db62fce4413337c1ab97704b89175c1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.0.aar/021d49f9424d319df98fe951e38a576a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-core-utils:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.0.aar/c78457f24a527ebe61b713463f3a9bfc/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.0.aar/e9ec7393f0cfb8bd9ccb9082a4dd2584/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.0.aar/95293851a8b8ce1b8aac1cbdcf9a71bf/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:6:5-28
+		INJECTED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:5:5-28
+		INJECTED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:8:19-57
+uses-permission#android.permission.CAMERA
+ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:10:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:12:22-77
+application
+ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:14:5-39:19
+MERGED from [com.android.support:design:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/design-24.2.0.aar/3ddb1d5672c098e9c34a9e5a40d7c4c7/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/design-24.2.0.aar/3ddb1d5672c098e9c34a9e5a40d7c4c7/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.0.aar/501541b3889f3c88b1be139005b7ffcb/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.0.aar/501541b3889f3c88b1be139005b7ffcb/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-vision-9.4.0.aar/4852e49d454579c372b120dcb9b306d5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-vision-9.4.0.aar/4852e49d454579c372b120dcb9b306d5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/242b92a6d28d725598df0537750957de/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/242b92a6d28d725598df0537750957de/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/93ff25649be7cbc8376de7db812b562f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/93ff25649be7cbc8376de7db812b562f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/ca7a50c6de4dc4dbff7da6df3d421d98/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/ca7a50c6de4dc4dbff7da6df3d421d98/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.0.aar/3b5c11763ec910562acb974e665704ec/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.0.aar/3b5c11763ec910562acb974e665704ec/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2a5858eaba42fa29c38c30ef50023ec6/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2a5858eaba42fa29c38c30ef50023ec6/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.0.aar/dcc15e84458d62fa7320450bac54a42b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.0.aar/dcc15e84458d62fa7320450bac54a42b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.0.aar/a768da15c94db6c96a1cea2734d2fec6/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.0.aar/a768da15c94db6c96a1cea2734d2fec6/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.0.aar/3db62fce4413337c1ab97704b89175c1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.0.aar/3db62fce4413337c1ab97704b89175c1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.0.aar/021d49f9424d319df98fe951e38a576a/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.0.aar/021d49f9424d319df98fe951e38a576a/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.0.aar/c78457f24a527ebe61b713463f3a9bfc/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.0.aar/c78457f24a527ebe61b713463f3a9bfc/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.0.aar/e9ec7393f0cfb8bd9ccb9082a4dd2584/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.0.aar/e9ec7393f0cfb8bd9ccb9082a4dd2584/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.0.aar/95293851a8b8ce1b8aac1cbdcf9a71bf/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.0.aar/95293851a8b8ce1b8aac1cbdcf9a71bf/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:19:9-46
+	android:hardwareAccelerated
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:16:9-43
+	android:icon
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:18:9-47
+meta-data#com.google.android.gms.version
+ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:21:9-22:68
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/ca7a50c6de4dc4dbff7da6df3d421d98/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/ca7a50c6de4dc4dbff7da6df3d421d98/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:22:13-66
+	android:name
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:21:20-65
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:24:9-26:36
+	android:value
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:26:13-33
+	android:name
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:25:13-70
+activity#com.facepassport.www.FacePassportActivity
+ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:28:9-38:20
+	android:screenOrientation
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:32:13-49
+	android:label
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:30:13-50
+	android:theme
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:31:13-63
+	android:name
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:29:13-69
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml
+INJECTED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/design-24.2.0.aar/3ddb1d5672c098e9c34a9e5a40d7c4c7/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/design-24.2.0.aar/3ddb1d5672c098e9c34a9e5a40d7c4c7/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.0.aar/501541b3889f3c88b1be139005b7ffcb/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.0.aar/501541b3889f3c88b1be139005b7ffcb/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-vision-9.4.0.aar/4852e49d454579c372b120dcb9b306d5/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-vision-9.4.0.aar/4852e49d454579c372b120dcb9b306d5/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/242b92a6d28d725598df0537750957de/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/242b92a6d28d725598df0537750957de/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/93ff25649be7cbc8376de7db812b562f/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/93ff25649be7cbc8376de7db812b562f/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/ca7a50c6de4dc4dbff7da6df3d421d98/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/ca7a50c6de4dc4dbff7da6df3d421d98/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.0.aar/3b5c11763ec910562acb974e665704ec/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.0.aar/3b5c11763ec910562acb974e665704ec/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2a5858eaba42fa29c38c30ef50023ec6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2a5858eaba42fa29c38c30ef50023ec6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.0.aar/c88304c0cbfea61a521075880e2115ce/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.0.aar/c88304c0cbfea61a521075880e2115ce/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.0.aar/dcc15e84458d62fa7320450bac54a42b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.0.aar/dcc15e84458d62fa7320450bac54a42b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.0.aar/a768da15c94db6c96a1cea2734d2fec6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.0.aar/a768da15c94db6c96a1cea2734d2fec6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.0.aar/3db62fce4413337c1ab97704b89175c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.0.aar/3db62fce4413337c1ab97704b89175c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.0.aar/021d49f9424d319df98fe951e38a576a/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.0.aar/021d49f9424d319df98fe951e38a576a/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-core-utils:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.0.aar/c78457f24a527ebe61b713463f3a9bfc/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.0.aar/c78457f24a527ebe61b713463f3a9bfc/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.0.aar/e9ec7393f0cfb8bd9ccb9082a4dd2584/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.0.aar/e9ec7393f0cfb8bd9ccb9082a4dd2584/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.0.aar/95293851a8b8ce1b8aac1cbdcf9a71bf/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.0.aar/95293851a8b8ce1b8aac1cbdcf9a71bf/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml
+INJECTED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.0.aar/501541b3889f3c88b1be139005b7ffcb/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml
+		ADDED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/artem.bolgov/DevelopersAndroid/FacePassport/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/242b92a6d28d725598df0537750957de/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/242b92a6d28d725598df0537750957de/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/242b92a6d28d725598df0537750957de/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/242b92a6d28d725598df0537750957de/AndroidManifest.xml:20:19-85

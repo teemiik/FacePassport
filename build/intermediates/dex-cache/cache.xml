@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.0.aar/c88304c0cbfea61a521075880e2115ce/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/artem.bolgov/DevelopersAndroid/FacePassport/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.0.aar/021d49f9424d319df98fe951e38a576a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/artem.bolgov/DevelopersAndroid/FacePassport/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.0.aar/501541b3889f3c88b1be139005b7ffcb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/artem.bolgov/DevelopersAndroid/FacePassport/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.0.aar/e9ec7393f0cfb8bd9ccb9082a4dd2584/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/artem.bolgov/DevelopersAndroid/FacePassport/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.0.aar/95293851a8b8ce1b8aac1cbdcf9a71bf/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/artem.bolgov/DevelopersAndroid/FacePassport/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.0.aar/c78457f24a527ebe61b713463f3a9bfc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/artem.bolgov/DevelopersAndroid/FacePassport/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/design-24.2.0.aar/3ddb1d5672c098e9c34a9e5a40d7c4c7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/artem.bolgov/DevelopersAndroid/FacePassport/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.0.aar/dcc15e84458d62fa7320450bac54a42b/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/artem.bolgov/DevelopersAndroid/FacePassport/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.0.aar/e9ec7393f0cfb8bd9ccb9082a4dd2584/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/artem.bolgov/DevelopersAndroid/FacePassport/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.0.aar/3db62fce4413337c1ab97704b89175c1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/artem.bolgov/DevelopersAndroid/FacePassport/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-vision-9.4.0.aar/4852e49d454579c372b120dcb9b306d5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/artem.bolgov/DevelopersAndroid/FacePassport/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/242b92a6d28d725598df0537750957de/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/artem.bolgov/DevelopersAndroid/FacePassport/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/ca7a50c6de4dc4dbff7da6df3d421d98/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/artem.bolgov/DevelopersAndroid/FacePassport/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.0.aar/dcc15e84458d62fa7320450bac54a42b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/artem.bolgov/DevelopersAndroid/FacePassport/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.0.aar/c78457f24a527ebe61b713463f3a9bfc/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/artem.bolgov/DevelopersAndroid/FacePassport/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.0.aar/a768da15c94db6c96a1cea2734d2fec6/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/artem.bolgov/DevelopersAndroid/FacePassport/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.0.aar/3b5c11763ec910562acb974e665704ec/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/artem.bolgov/DevelopersAndroid/FacePassport/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.0.aar/95293851a8b8ce1b8aac1cbdcf9a71bf/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/artem.bolgov/DevelopersAndroid/FacePassport/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/2a5858eaba42fa29c38c30ef50023ec6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/artem.bolgov/DevelopersAndroid/FacePassport/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/93ff25649be7cbc8376de7db812b562f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/artem.bolgov/DevelopersAndroid/FacePassport/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/artem.bolgov/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.0.aar/a768da15c94db6c96a1cea2734d2fec6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/artem.bolgov/DevelopersAndroid/FacePassport/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/artem.bolgov/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/artem.bolgov/DevelopersAndroid/FacePassport/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+
+</items>
